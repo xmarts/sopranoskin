@@ -1,0 +1,4 @@
+[submodule "ks-dashboard-ninja"]
+	path = ks-dashboard-ninja
+	url = git@github.com:xmarts/ks-dashboard-ninja.git
+	branch = 14.0
